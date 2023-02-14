@@ -1,5 +1,5 @@
 # Born2beroot
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4qxms4g001609l49j835g66/project/2574154" alt="joslopez's 42 Born2beroot Score" /></a/n>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4qxms4g001609l49j835g66/project/2574154" alt="joslopez's 42 Born2beroot Score" /><a/n>
 <b>General guidelines</b>
 <p>• The use of VirtualBox (or UTM if you can’t use VirtualBox) is mandatory.</p>
 <p>• You only have to turn in a signature.txt file at the root of your repository. You
